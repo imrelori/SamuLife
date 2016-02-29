@@ -1,4 +1,7 @@
 # SamuLife
+
+This project is a fork of the https://github.com/nbatfai/SamuLife repository, and it is used for an exercise of the high lewel programming course.
+
 [Samu](http://arxiv.org/abs/1511.02889) (Nahshon) has learnt the rules of Conway's Game of Life. This is 
 an example of the paper entitled "Samu in his prenatal development".
 
